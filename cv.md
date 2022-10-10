@@ -17,3 +17,18 @@ I enjoy making (and of course eating) pasta, singing in french and occasionaly s
 - Editors: PyCharm, VSCode, IntelliJ
 - Fluent in German, English and Russian, intermediate level in French
 - Comprehensive knowledge of Microsoft Office
+
+### Code example ###
+***Codewars challenge:*** Write a function that takes in a string of one or more words, 
+ and returns the same string, but with all five or more letter  words reversed (Just like the name of this Kata). Strings passed  in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
+
+    def spin_words(sentence):
+    list = sentence.split()
+    spin_list =[]
+    for word in list:
+        if len(word)>=5:
+            reverse = word[::-1]
+            spin_list.append(reverse)
+        else:
+            spin_list.append(word)
+    return " ".join(spin_list)
