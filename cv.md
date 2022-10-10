@@ -32,8 +32,22 @@ I enjoy making (and of course eating) pasta, singing in french and occasionaly s
         else:
             spin_list.append(word)
     return " ".join(spin_list)
-    
+
 ### Experience ###
 - BSc dissertation: Python implementation of Conway's Game of Life
 - MSc Software Engineering module [group project NewBank](https://github.com/draxano/newBank) (Java)
 - MSc Database and Cloud module [staff management project](https://replit.com/@dida999/ABCcompany#main.py) (Python + SQLite)
+
+### Education ###
+- **MSc Computer Science, University of Bath** (Sep 2021-present)
+    - Modules include: Software Engineering, Principles of Programming, Cybersecurity, Databases and Cloud, Artificial Intelligence, Functional Programming, Foundations of Computation, Entrepreneurship.
+- **First Class BSc (Hons) Mathematics, Kingston University** (2020)
+    - Modules studied include: Artificial Intelligence and Database Systems, Computational Mathematics, Partial Differential Equations and Optimisation, Time Series Analysis and Further Inference.
+        Bachelor’s dissertation: An investigation into Cellular Automata. 
+        Awarded Institute of Mathematics and its Applications (IMA) prize and associated membership for outstanding academic performance.
+- **GRG 19 Bundesgymnasium und Bundesrealgymnasium** (2017)
+     -  Key subjects: German, Mathematics, English, French, Latin.
+
+### English ###
+- IELTS 7.5 
+- UK university BSc degree holder
