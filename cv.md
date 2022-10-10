@@ -11,3 +11,9 @@ As an MSc Computer Science student at University of Bath I decided to take a sho
 I feel passionale about protecting our climate and raising awareness amongst people in my life.
 I enjoy making (and of course eating) pasta, singing in french and occasionaly solving math problems. 
 
+### Skills ###
+- Python (basic knowledge), Java (basic knowledge), SQLite (basic knowledge), Git  (basic knowledge), Haskell (basic knowledge)
+- Limited experience in web programming (HTML, CSS, JavaScript)
+- Editors: PyCharm, VSCode, IntelliJ
+- Fluent in German, English and Russian, intermediate level in French
+- Comprehensive knowledge of Microsoft Office
