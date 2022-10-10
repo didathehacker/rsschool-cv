@@ -32,3 +32,8 @@ I enjoy making (and of course eating) pasta, singing in french and occasionaly s
         else:
             spin_list.append(word)
     return " ".join(spin_list)
+    
+### Experience ###
+- BSc dissertation: Python implementation of Conway's Game of Life
+- MSc Software Engineering module [group project NewBank](https://github.com/draxano/newBank) (Java)
+- MSc Database and Cloud module [staff management project](https://replit.com/@dida999/ABCcompany#main.py) (Python + SQLite)
