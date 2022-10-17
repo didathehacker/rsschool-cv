@@ -1,1 +1,1 @@
-https://didathehacker.github.io/rsschool-cv/cv
+https://didathehacker.github.io/rsschool-cv/
