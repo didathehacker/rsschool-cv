@@ -13,9 +13,16 @@ ul {
     margin-top:-15px;
     padding: 10px 50px 10px 50px;
   }
-p{
+p {
     margin-top:-15px;
     padding: 10px 50px 10px 50px;
+}
+footer span {
+    margin: 0 px;
+}
+img {
+    max-width: 10%;
+    height: auto;
 }
 a:hover{
     color: #57dec8;
