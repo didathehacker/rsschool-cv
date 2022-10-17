@@ -17,6 +17,9 @@ p{
     margin-top:-15px;
     padding: 10px 50px 10px 50px;
 }
+a:hover{
+    color: #57dec8;
+}
 #code-align{
     display: inline-block; 
     text-align: left;
